@@ -1,0 +1,22 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://github.com/Mortals-dev/iOS-Citizen-App"
+name: "Citizen App for iOS"
+id: "Citizen-App-for-iOS"
+type:
+  name: "iOS Project"
+  goals: null
+features: null
+goals: null
+application: null
+source:
+  url: "https://github.com/Mortals-dev/iOS-Citizen-App"
+  type: "Github"
+description:
+  title: null
+  details: "iOS App for uploading pictures and status tracking"
+  icon: null
+  background: null
+  moreInfo: null
+  other: null

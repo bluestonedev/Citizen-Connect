@@ -1,0 +1,22 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://standard.build.me/projects/15f462b7505f614b0ea728ac/home "
+name: "Sample Screens"
+id: "Sample-Screens"
+type:
+  name: "BUILD Prototype"
+  goals: null
+features: null
+goals: null
+application: null
+source:
+  url: "https://standard.build.me/projects/15f462b7505f614b0ea728ac/home"
+  type: "BUILD Project"
+description:
+  title: null
+  details: "Few sample screens for feedback"
+  icon: null
+  background: null
+  moreInfo: null
+  other: null
