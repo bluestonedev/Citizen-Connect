@@ -16,7 +16,7 @@ source:
 description:
   title: null
   details: "Few sample screens for feedback"
-  icon: null
+  icon: "sap-icon://request"
   background: null
   moreInfo: null
   other: null
