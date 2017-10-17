@@ -16,7 +16,7 @@ source:
 description:
   title: null
   details: "Android App for uploading pictures and status trackings"
-  icon: null
+  icon: "sap-icon://desktop-mobile"
   background: null
   moreInfo: null
   other: null
