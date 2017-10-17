@@ -15,7 +15,7 @@ source:
   type: "Github"
 description:
   title: null
-  details: "Android App for uploading pictures and status trackings"
+  details: "Android App for uploading pictures and status tracking"
   icon:
   - "sap-icon://iphone"
   background: null
