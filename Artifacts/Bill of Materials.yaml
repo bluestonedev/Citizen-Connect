@@ -16,7 +16,8 @@ source:
 description:
   title: null
   details: "List of artefacts & Features to use and the cost"
-  icon: "sap-icon://excel-attachment"
+  icon:
+  - "sap-icon://excel-attachment"
   background: null
   moreInfo: null
   other: null
