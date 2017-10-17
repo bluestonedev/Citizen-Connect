@@ -16,7 +16,7 @@ source:
 description:
   title: null
   details: "The real website"
-  icon: null
+  icon: "sap-icon://internet-browser"
   background: null
   moreInfo: null
   other: null
