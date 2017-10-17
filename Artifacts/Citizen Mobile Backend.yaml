@@ -16,7 +16,7 @@ source:
 description:
   title: null
   details: "CF Application to enable Cloud Platform Mobile Services features"
-  icon: null
+  icon: "sap-icon://database"
   background: null
   moreInfo: null
   other: null
