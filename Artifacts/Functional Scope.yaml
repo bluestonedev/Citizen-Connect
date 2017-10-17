@@ -16,7 +16,7 @@ source:
 description:
   title: null
   details: "Describes the Overall Scope of the project, the personas &\_use cases"
-  icon: null
+  icon: "sap-icon://document"
   background: null
   moreInfo: null
   other: null
