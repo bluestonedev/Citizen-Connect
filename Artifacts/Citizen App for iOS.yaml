@@ -17,7 +17,7 @@ description:
   title: null
   details: "iOS App for uploading pictures and status tracking"
   icon:
-  - "sap-icon://desktop-mobile"
+  - "sap-icon://iphone"
   background: null
   moreInfo: null
   other: null
