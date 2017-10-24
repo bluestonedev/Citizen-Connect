@@ -15,7 +15,7 @@ source:
   type: "Weblink"
 description:
   title: null
-  details: "List of artefa cts & Features to use and the cost"
+  details: "List of artefacts & Features to use and the cost"
   icon:
   - "sap-icon://excel-attachment"
   background: null
