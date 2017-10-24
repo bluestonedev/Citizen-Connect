@@ -5,7 +5,7 @@ configuration:
 name: "Sample Screens"
 id: "Sample-Screens"
 type:
-  name: "BUILD Prototype "
+  name: "BUILD Prototype"
   goals: null
 features: null
 goals: null
