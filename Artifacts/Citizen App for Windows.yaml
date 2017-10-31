@@ -3,12 +3,8 @@ configuration:
 - key: "launchUrl"
   value: ""
 name: "Citizen App for Windows"
-id: ""
-type:
-  name: "Mobile"
-  goals: null
+artifactTypeId: "Mobile"
 features: null
-goals: null
 application: null
 source:
   url: ""
@@ -20,4 +16,3 @@ description:
   background: null
   moreInfo: null
   other: null
-modifiedDate: null
