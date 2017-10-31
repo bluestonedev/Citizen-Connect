@@ -3,12 +3,8 @@ configuration:
 - key: "launchUrl"
   value: "https://webide-i311345sapdev.dispatcher.int.sap.hana.ondemand.com/ "
 name: "Citizen App for Android"
-id: "Citizen-App-for-Androidd"
-type:
-  name: "Mobile Backend"
-  goals: null
+artifactTypeId: "Mobile Backend"
 features: null
-goals: null
 application: null
 source:
   url: "https://github.com/Mortals-dev/CitizenHybridApp "
