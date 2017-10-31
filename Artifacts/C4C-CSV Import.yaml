@@ -2,7 +2,7 @@
 configuration:
 - key: "launchUrl"
   value: "https://api.sap.com/shell/discover/contentpackage/SAPHybrisCloudforCustomerIntegrationwithSAPCRM?section=ARTIFACTS "
-id: "C4C-CSV Import"
+name: "C4C-CSV Import"
 artifactTypeId: "Integration Package"
 features: null
 application: null
