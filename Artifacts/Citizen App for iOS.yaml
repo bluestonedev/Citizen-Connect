@@ -3,12 +3,8 @@ configuration:
 - key: "launchUrl"
   value: "https://github.com/Mortals-dev/iOS-Citizen-App"
 name: "Citizen App for iOS"
-id: "Citizen-App-for-iOS"
-type:
-  name: "iOS Project"
-  goals: null
+artifactTypeId: "iOS Project"
 features: null
-goals: null
 application: null
 source:
   url: "https://github.com/Mortals-dev/iOS-Citizen-App"
