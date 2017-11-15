@@ -1,14 +1,121 @@
-   name: "Mobile Analytics Feature"
-   featureType: 
-     id: "Mobile Analytics"
-   serviceBindings: 
-   - name: "Client Usage"
-     plan: "default"
-     url: ""
-   name: "Notification"
-   featureType: 
-     id: "Notification"
-   serviceBindings:
-   - name: "Push"
-     plan: "default"
-     url: ""
+---
+- id: "6fa94396-381d-4a6f-aa82-c3ad02e952c2"
+  name: "F1"
+  featureType:
+    id: "User Feedback"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings:
+  - name: "Feedback"
+    plan: "default"
+    url: null
+    parameters: null
+  - name: "Text Analysis"
+    plan: "default"
+    url: null
+    parameters: null
+  configuration: null
+- id: "ce90dd1d-ca01-4612-9acb-22414b572716"
+  name: "F2"
+  featureType:
+    id: "Branding"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings:
+  - name: "Theme Gallery"
+    plan: "default"
+    url: null
+    parameters: null
+  configuration: null
+- id: "c855a893-d7b9-4b41-90ae-5a5cc56a3ecc"
+  name: "F3"
+  featureType:
+    id: "Document Management"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings:
+  - name: "Document Service"
+    plan: "default"
+    url: null
+    parameters: null
+  configuration: null
+- id: "aec38789-0d02-4b27-b974-2c37704d5ce4"
+  name: "F4"
+  featureType:
+    id: "Data Access"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings:
+  - name: "OData Access"
+    plan: "default"
+    url: null
+    parameters: null
+  - name: "OData Offline"
+    plan: "default"
+    url: null
+    parameters: null
+  - name: "Data Access"
+    plan: "default"
+    url: null
+    parameters: null
+  configuration: null
+- id: "624b185a-05a5-48e0-a9ee-d6bc32e4696e"
+  name: "F5"
+  featureType:
+    id: "Native Application Connectivity"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings:
+  - name: "OData Access"
+    plan: "default"
+    url: null
+    parameters: null
+  - name: "OData offline"
+    plan: "default"
+    url: null
+    parameters: null
+  configuration: null
+- id: "2c8b36bb-0a8a-4a48-b7d9-8a06f8725dbb"
+  name: "F6"
+  featureType:
+    id: "Web services Enablement"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings:
+  - name: "OData Access"
+    plan: "default"
+    url: null
+    parameters: null
+  configuration: null
+- id: "692fd4f7-f5f3-445e-a6e3-bae6b99a7cf7"
+  name: "F7"
+  featureType:
+    id: "Notifications"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings:
+  - name: "Push"
+    plan: "default"
+    url: null
+    parameters: null
+  configuration: null
+- id: "7eaf2db3-ccd7-4a2b-af12-9c9e9ec31936"
+  name: "F8"
+  featureType:
+    id: "Mobile Analytics"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings:
+  - name: "Client Usage"
+    plan: "default"
+    url: null
+    parameters: null
+  configuration: null
