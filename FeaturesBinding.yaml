@@ -1,0 +1,14 @@
+   name: "Mobile Analytics Feature"
+   featureType: 
+     id: "Mobile Analytics"
+   serviceBindings: 
+   - name: "Client Usage"
+     plan: "default"
+     url: ""
+   name: "Notification"
+   featureType: 
+     id: "Notification"
+   serviceBindings:
+   - name: "Push"
+     plan: "default"
+     url: ""
