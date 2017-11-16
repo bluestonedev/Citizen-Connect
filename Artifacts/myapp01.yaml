@@ -1,0 +1,21 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://P1942968454:P@ssword1@service-cockpit-web-bsx.cfapps.sap.hana.ondemand.com/cockpit/v1/org/Styx/space/Dev/index.html#/page.apps.overview/myapp01"
+- key: "ApplicationId"
+  value: "myapp01"
+id: null
+name: "myapp01"
+artifactTypeId: null
+description:
+  title: null
+  details: ""
+  icon: null
+  background: null
+  moreInfo: null
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source: null
