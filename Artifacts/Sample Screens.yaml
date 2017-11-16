@@ -3,7 +3,7 @@ configuration:
 - key: "launchUrl"
   value: "https://standard.build.me/projects/15f462b7505f614b0ea728ac/home "
 name: "Sample Screens"
-artifactTypeId: "BUILD Prototype"
+artifactTypeId: "Build"
 features: null
 application: null
 source:
