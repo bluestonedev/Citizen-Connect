@@ -3,7 +3,7 @@ configuration:
 - key: "launchUrl"
   value: "https://webide-i311345sapdev.dispatcher.int.sap.hana.ondemand.com/ "
 name: "Citizen App for Android"
-artifactTypeId: "Mobile Backend"
+artifactTypeId: "Android App"
 features: null
 application: null
 source:
