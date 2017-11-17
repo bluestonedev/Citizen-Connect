@@ -5,8 +5,8 @@ configuration:
 name: "Citizen App for iOS"
 artifactTypeId: "iOS App"
 features:
- - "Data Access"
- - "Mobile Resources"
+ - "name": "Data Access"
+ - "name": "Mobile Resources"
 application: null
 source:
   url: "https://github.com/Mortals-dev/iOS-Citizen-App"
