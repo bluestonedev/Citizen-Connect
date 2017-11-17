@@ -1,0 +1,23 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://P1942968454:P@ssword1@service-cockpit-web-bsx.cfapps.sap.hana.ondemand.com/cockpit/v1/org/Styx/space/Dev/index.html#/page.apps.overview/com.sap.demo.app1"
+- key: "ApplicationId"
+  value: "com.sap.demo.app1"
+id: null
+name: "sample"
+artifactTypeId: "Mobile Backend"
+description:
+  title: ""
+  details: ""
+  icon: null
+  background: null
+  moreInfo: ""
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source:
+  url: ""
+  type: "CF Application"
