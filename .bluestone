@@ -4,6 +4,7 @@ project:
   version: "0.1"
   fatureId:
   - "abcd-raghav2-msp"
+  - "abcd-raghav2-msp"
   status:
     title: "Published"
     details: null
