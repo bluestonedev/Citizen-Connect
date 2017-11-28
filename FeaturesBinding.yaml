@@ -128,3 +128,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "abcd-raghav2-msp"
+  name: "FP123111"
+  featureType:
+    id: "Data Access"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
