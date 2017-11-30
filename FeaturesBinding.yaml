@@ -137,3 +137,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "74bba031-e418-4512-be55-e44f1569a1b6"
+  name: ""
+  featureType:
+    id: "Notifications"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
