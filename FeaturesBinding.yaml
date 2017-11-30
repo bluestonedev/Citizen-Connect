@@ -146,3 +146,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "9cac8443-7c77-4f35-9d23-53c59e50c345"
+  name: ""
+  featureType:
+    id: "Forms By Adobe"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
