@@ -12,4 +12,3 @@ In addition, the data is replicated with the C4C system through which all subseq
 
 ### Status
  Currently in alpha testing phase.
- 
